@@ -1,0 +1,43 @@
+{
+  "html": {
+    "elements": {
+      "button": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/button",
+          "spec_url": "https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element",
+          "support": {
+            "chrome+chromevox": {
+              "version_added": true
+            },
+            "chrome+nvda": {
+              "version_added": true
+            },
+            "firefox+nvda": {
+              "version_added": true
+            },
+            "chrome+jaws": {
+              "version_added": true
+            },
+            "firefox+jaws": {
+              "version_added": true
+            },
+            "chrome+voiceover": {
+              "version_added": true
+            },
+            "firefox+voiceover": {
+              "version_added": true
+            },
+            "safari+voiceover": {
+              "version_added": true
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}
