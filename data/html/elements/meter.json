@@ -1,0 +1,37 @@
+{
+  "html": {
+    "elements": {
+      "meter": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/meter",
+          "spec_url": "https://html.spec.whatwg.org/multipage/form-elements.html#the-meter-element",
+          "support": {
+            "chrome+chromevox": {
+              "version_added": false
+            },
+            "chrome+nvda": {
+              "version_added": false
+            },
+            "firefox+nvda": {
+              "version_added": false
+            },
+            "edge+nvda": {
+              "version_added": false
+            },
+            "chrome+narrator": {
+              "version_added": false
+            },
+            "edge+narrator": {
+              "version_added": false
+            }
+          },
+          "status": {
+            "experimental": false,
+            "standard_track": true,
+            "deprecated": false
+          }
+        }
+      }
+    }
+  }
+}
